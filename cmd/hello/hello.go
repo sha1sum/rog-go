@@ -3,9 +3,9 @@
 package main
 
 import (
-	"code.google.com/p/freetype-go/freetype/truetype"
-	"code.google.com/p/rog-go/canvas"
-	"code.google.com/p/rog-go/x11"
+	"github.com/sha1sum/freetype-go/freetype/truetype"
+	"github.com/sha1sum/rog-go/canvas"
+	"github.com/sha1sum/rog-go/x11"
 	"exp/draw"
 	"image"
 	"io/ioutil"

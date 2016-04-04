@@ -17,7 +17,7 @@ package main
 
 import (
 	"bufio"
-	"code.google.com/p/rog-go/ncnet"
+	"github.com/sha1sum/rog-go/ncnet"
 	"errors"
 	"flag"
 	"fmt"

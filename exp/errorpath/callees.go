@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"unsafe"
 
-	"code.google.com/p/go.tools/go/ssa"
-	"code.google.com/p/go.tools/oracle"
+	"github.com/sha1sum/go.tools/go/ssa"
+	"github.com/sha1sum/go.tools/oracle"
 )
 
 func (ctxt *context) callees(inst *ssa.Call) ([]*ssa.Function, error) {

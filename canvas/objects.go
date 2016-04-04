@@ -1,9 +1,9 @@
 package canvas
 
 import (
-	"code.google.com/p/freetype-go/freetype/raster"
-	"code.google.com/p/rog-go/values"
-	"code.google.com/p/x-go-binding/ui"
+	"github.com/sha1sum/freetype-go/freetype/raster"
+	"github.com/sha1sum/rog-go/values"
+	"github.com/sha1sum/x-go-binding/ui"
 	"image"
 	"image/color"
 	"image/draw"

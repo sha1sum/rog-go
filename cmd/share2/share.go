@@ -17,7 +17,7 @@ package main
 
 import (
 	"bufio"
-	"code.google.com/p/rog-go/ncrpc"
+	"github.com/sha1sum/rog-go/ncrpc"
 	"errors"
 	"flag"
 	"fmt"

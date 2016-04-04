@@ -6,9 +6,9 @@ package printer
 
 import (
 	"bytes"
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/parser"
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/sha1sum/rog-go/exp/go/ast"
+	"github.com/sha1sum/rog-go/exp/go/parser"
+	"github.com/sha1sum/rog-go/exp/go/token"
 	"flag"
 	"io/ioutil"
 	"path/filepath"

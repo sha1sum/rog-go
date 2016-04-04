@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	plan9 "code.google.com/p/rog-go/new9p"
+	plan9 "github.com/sha1sum/rog-go/new9p"
 )
 
 type Error string

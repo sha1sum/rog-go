@@ -7,7 +7,7 @@
 package ast
 
 import (
-	"code.google.com/p/rog-go/exp/go/token"
+	"github.com/sha1sum/rog-go/exp/go/token"
 	"fmt"
 	"io"
 	"os"

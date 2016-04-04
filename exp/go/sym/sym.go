@@ -4,11 +4,11 @@ package sym
 
 import (
 	"bytes"
-	"code.google.com/p/rog-go/exp/go/ast"
-	"code.google.com/p/rog-go/exp/go/parser"
-	"code.google.com/p/rog-go/exp/go/printer"
-	"code.google.com/p/rog-go/exp/go/token"
-	"code.google.com/p/rog-go/exp/go/types"
+	"github.com/sha1sum/rog-go/exp/go/ast"
+	"github.com/sha1sum/rog-go/exp/go/parser"
+	"github.com/sha1sum/rog-go/exp/go/printer"
+	"github.com/sha1sum/rog-go/exp/go/token"
+	"github.com/sha1sum/rog-go/exp/go/types"
 	"fmt"
 	"go/build"
 	"io/ioutil"
